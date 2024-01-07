@@ -1,0 +1,5 @@
+device_security,device_count,
+WPA2,12,
+None,3,
+WPA3,1,
+AES256,1,
